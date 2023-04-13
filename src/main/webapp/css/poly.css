@@ -1,0 +1,9 @@
+body{
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+}
+.form{
+    width: 50%;
+    margin: auto;
+}
